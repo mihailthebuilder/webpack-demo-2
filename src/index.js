@@ -1,1 +1,1 @@
-document.getElementsByTagName("body").insertAdjacentHtml("afterend","<div>Hello world!</div>");
+console.log("I'm coding ma'!");
