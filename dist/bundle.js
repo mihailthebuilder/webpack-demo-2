@@ -1,0 +1,1 @@
+document.getElementsByTagName("body").insertAdjacentHtml("afterend","<div>Hello world!</div>");
