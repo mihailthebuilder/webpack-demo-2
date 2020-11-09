@@ -10,7 +10,9 @@ module.exports = {
     rules: [
       {
         test: /\.jpe?g$/,
-        use: "file-loader"
+        use: [
+          "file-loader"
+        ]
       }
     ]
   }
