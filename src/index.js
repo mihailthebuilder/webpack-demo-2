@@ -1,3 +1,4 @@
 import fooString from "./foo.js";
+import bar from "./bar-cjs.js";
 
-console.log("I'm coding ma'!");
+console.log(fooString,bar);
